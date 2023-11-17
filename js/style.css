@@ -1,0 +1,22 @@
+form {
+	width: 300px;
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	border: 2px solid red;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	/* margin: 0 auto; */
+	display: none;
+}
+
+img {
+	width: 20px;
+	position: relative;
+	left: 80%;
+}
+
+input {
+	margin-top: 50px;
+}
